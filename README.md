@@ -132,7 +132,7 @@ Stock List Fetching and Pagination
 
 
 
-Ready Stock, Stock Valdation in Orders Basket 
+Ready Stock, Stock Validation in Orders Basket 
 
 ![readyStock](https://user-images.githubusercontent.com/72380768/155892406-83c312dc-a75c-42a5-bfdd-86720a9a00db.png)
 
