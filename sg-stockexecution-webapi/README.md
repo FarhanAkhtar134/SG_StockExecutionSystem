@@ -36,3 +36,12 @@ spring.data.mongodb.database=stocks
 - In this configuration file, the database IP is localhost i.e., the mongodb database is running on a local machine
 - Port on which the mongodb database server is running is 27017
 - The name of the mongodb database is: stocks   
+
+
+**Setup MongoDB datasouce and connect to MongoDB local database in spring boot  **
+![setupDB](https://user-images.githubusercontent.com/72380768/155892946-9bcdd221-206c-4c53-bf81-7b8cc603a31f.png)
+
+![mongodb-connection](https://user-images.githubusercontent.com/72380768/155892952-7a068fae-b6e9-42f4-98cc-d0502d171275.png)
+
+![webapi_connected_to_db](https://user-images.githubusercontent.com/72380768/155892947-118bbadb-5773-489b-9788-e62ec8cbabc3.png)
+
