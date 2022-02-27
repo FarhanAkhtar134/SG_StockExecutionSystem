@@ -46,3 +46,48 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
+## **Component 3** 
+
+Web UI
+
+
+### **Initializing component 3:**  
+
+Web UI is designed using React js with typescript. React Js allows development of complex user interfaces. Typescript adds semantic correction to core javascript hence, allows writing robust javascript code. 
+
+1. Clone the github repo SG_StockExecutionSystem to a local folder.
+2. Inside the repository there is a folder named SG-StockExecutionSystem-WebUI. This contains the Web UI code. 
+3. Open SG-StockExecutionSystem-WebUI folder using visual studio IDE.
+4. open terminal in the project folder or navigate in the project folder through the terminal.
+5. Run **npm install** to install all the dependencies of the project. 
+6. Run **npm start** to run the Web UI application. 
+7. The Web UI application will run on port 3000
+8. Type following url to access Web UI: http://localhost:3000/
+
+
+Third party Packages used for web UI: 
+1. React admin
+
+This is used to bootstrap the react project. React admin provides components and styles that are used to bootstrap a react application. 
+React admin makes use of Material UI to provide styles for the react components. React router and fetch() method are used for sending HTTP requests from Web UI to Web API. react router and fetch() method are built into the react admin package. 
+
+2. react redux 
+3. redux toolkit
+
+These are used for the flux architecture of the application. Redux toolkit allows efficient state management through store/action/disptach/reducer logic of the flux architecture. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
