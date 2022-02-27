@@ -117,3 +117,22 @@ The Web UI makes api calls to Web API using the fetch() method provided in clien
 8. Open terminal in project folder
 9. run npm install and npm start to run the web UI.
 10. The Web UI will start on port 3000. The url is http://localhost:3000/
+
+
+
+
+**Implementation Images**
+
+Stock List Fetching and Pagination 
+
+
+
+![stockList](https://user-images.githubusercontent.com/72380768/155892369-c47d2a7f-c5f6-4828-b861-1d0b56b6c5c4.png)
+
+
+
+
+Ready Stock, Stock Valdation in Orders Basket 
+
+![readyStock](https://user-images.githubusercontent.com/72380768/155892406-83c312dc-a75c-42a5-bfdd-86720a9a00db.png)
+
