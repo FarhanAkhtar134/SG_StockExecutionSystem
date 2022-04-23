@@ -8,6 +8,10 @@ Component 2 is the backend Web API built using Java Spring Boot framework.
 
 Component 3 is the front end Web UI built using ReactJs with Typescript. 
 
+## Demo Video Link 
+
+https://youtu.be/wBelltoBPOk
+
 
 Project requirements: 
 
